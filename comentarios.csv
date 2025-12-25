@@ -1,0 +1,5 @@
+"username,text
+joao,""Quero! @ana @bia @carlos""        # válido
+maria,""@amigo1 @amigo1 @amigo3""        # inválido (repetiu)
+pedro,""@um @dois""                      # inválido (só 2)
+ana,""@a @b @c @d""                      # inválido (4)"
